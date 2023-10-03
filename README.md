@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Sahadat Hossain</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+![logo](https://github.com/EmonSpeedy/EmonSpeedy/blob/main/384532660_2546762608806418_1917977106841877005_n.jpg)
+<h1 align="center">Greetings 👋, I'm Sahadat Hossain</h1>
+<h3 align="center">An Entry level backend developer and passionate about problem solving</h3>
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emonspeedy&label=Profile%20views&color=0e75b6&style=flat" alt="emonspeedy" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emonspeedy&label=Profile%20views&color=0e75b6&style=flat" alt="emonspeedy" /> </p>
 
 - 🔭 I’m currently working on **News Site**
 
 - 🌱 I’m currently learning **Javascript, React**
 
-- 💬 Ask me about **Backend(Python) developer**
+- 💬 Ask me about **Python development and Problem solving**
 
 - 📫 How to reach me **sahadathossainCSE@gmail.com**
 
 - ⚡ Fun fact **I am serious all the time**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emonspeedy" alt="emonspeedy" /></a> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
