@@ -1,7 +1,7 @@
 ![logo](https://github.com/EmonSpeedy/EmonSpeedy/blob/main/384533993_6355278691243906_8735780579128250088_n.jpg)
 <h1 align="center">Greetings 👋, I'm Sahadat Hossain</h1>
 <h3 align="center">An Entry level backend developer and passionate about problem solving</h3>
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzcSU3cJY6BGGJlumw8LDfoiGQK3m7orkmcg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emonspeedy&label=Profile%20views&color=0e75b6&style=flat" alt="emonspeedy" /> </p>
 
