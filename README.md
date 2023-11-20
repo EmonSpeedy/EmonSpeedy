@@ -1,4 +1,4 @@
-![logo](https://github.com/EmonSpeedy/EmonSpeedy/blob/main/Screenshot%202023-10-05%20133522.png)
+
 <h1 align="center">Greetings 👋, I'm Sahadat Hossain</h1>
 <h3 align="center">An Entry level backend developer and passionate about problem solving</h3>
 <img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzcSU3cJY6BGGJlumw8LDfoiGQK3m7orkmcg&usqp=CAU">
