@@ -1,19 +1,15 @@
 
-<h1 align="center">Greetings 👋, I'm Sahadat Hossain</h1>
-<h3 align="center">An Entry level backend developer and passionate about problem solving</h3>
+<h1 align="center">Salaam 👋, I'm Sahadat Hossain</h1>
+<h3 align="center">Enhancing problem solving skill</h3>
 <img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzcSU3cJY6BGGJlumw8LDfoiGQK3m7orkmcg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emonspeedy&label=Profile%20views&color=0e75b6&style=flat" alt="emonspeedy" /> </p>
-
-- 🔭 I’m currently working on **News Site**
-
-- 🌱 I’m currently learning **Javascript, React**
 
 - 💬 Ask me about **Python development and Problem solving**
 
 - 📫 How to reach me **sahadathossainCSE@gmail.com**
 
-- ⚡ Fun fact **I am serious all the time**
+- ⚡ Fun fact **I am serious all the time and don't hurt me if you do you will be melted I promise**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emonspeedy" alt="emonspeedy" /></a> </p>
 
